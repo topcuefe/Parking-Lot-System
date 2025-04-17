@@ -7,6 +7,12 @@ This image is from application
 
 
 
-We used HC SR04 sensor for measuring 
-and nRF24L01+ for communacition
+We used HC SR04 sensor for distance measurement and nRF24L01+ for communacition
+![image](https://github.com/user-attachments/assets/b6c80cb0-a420-41c3-9ec6-12f75692d01f)
+
+
+
+and Arduino Car Kit with Bluetooth module
+![image](https://github.com/user-attachments/assets/e03d0fee-a224-49d5-a0e5-85cc9ad00ec7)
+
 
